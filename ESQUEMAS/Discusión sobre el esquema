@@ -1,1 +1,18 @@
+El primer paso con lo que se armó este diagrama fue buscar los componentes 
+básico del Arduino, La placa del Arduino uno, el sensor de distancia ultrasónico, un solo 
+servomotor, un Motor de aficionador. Es un diagrama básico ya que nuestro robot tiene 
+dos micros servos motores.
 
+Los pasos para conectarlos fueron de acuerdo a la placa física de Arduino, buscando que 
+conector estaba los componentes conectados.
+
+El sensor de distancia modelo HC-SR04 conectando, GND(N), ECHO(N), TRIG(N).
+
+El motor de aficionado para buscar donde estaba conectado, buscando entre la
+programación ANALOG IN (A1 Y 5V) o entre A0, A1, A2, A3, A4, A5.
+
+Micro Servomotor buscando entre los pines 10 o 11 con el color naranja, color rojo a 5V 
+y el color marrón en el área POWER (GND).
+
+Y por ultimo la pila de 9V, esta pila no esta de acuerdo al robot original, Porque? 
+La batería integrada viene con 8V instalada, 
