@@ -1,1 +1,25 @@
+La gestión de movilidad de nuetro robot creado usando Arduino Uno esta basada 
+en el uso adecuado de los componentes y motores, asi como el diseño y montaje del chasis del robot.
+En el en el caso de nuestro robot arduino uno utilizamos un motor (DC) para controlar los movimientos del robot
+el control de este ,se dio mediante programación;en la cual se habilita la señal para el motor (ENA) 
+junto con IN1,IN2,IN3,IN4 que se encargan de controlar la dirección del motor.
 
+Movilidad hacia atras
+Esto habilita la señal del motor,luego establece su velocidad,posteriormente se les manda una señal de 1 a (IN1) y (IN2)
+todo esto usasndo un tiempo determinado.
+
+Movilidad hacia adelante
+Esto habilita la señal del motor,luego establece su velocidad,posteriormente se les manda una señal de 1 a (IN3) y (IN4)
+todo esto usasndo un tiempo determinado.
+
+´Detener movilidad
+Para detener la movilidad optamos por la opción de detener la señal del motor,detener la señal de cada controlador
+de dirección del motor es decir,detuvimos la señal de IN1 colocando su señal en 0 ,detuvimos la señal de IN2
+colocando su señal en 0 ,detuvimos la señal de IN3 colocando su señal en 0 ,detuvimos la señal de IN4 colocando 
+su señal en 0.Esto unicamente explica la creación de su movilidad hacia adelante,atras y cuando se detiene
+todo esto usasndo un tiempo determinado.
+
+Movilidad Derecha-Izquierda
+Para la movilidad derecha-izquierda usamos un servomotor,el cual nos permite mover en las direcciones
+derecha,centro,izquierda.Esto lo hicimos mediante programación.Definiendo los pines del servomotor.
+Luego se estableciendo sus grados a un tiempo determinado.
