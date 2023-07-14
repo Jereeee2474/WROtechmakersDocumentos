@@ -1,19 +1,31 @@
-En esta carpeta hay imagenes y un poco de información,
-de como ha sido nuestros proceso durante el ensamblaje de nuestro robot.
+En esta carpeta hay imagenes y un poco
+de información, de como ha sido nuestros 
+proceso durante el ensamblaje de nuestro robot.
 
-Debemos incluir que nuestro robot es un "samrt robot car v4.0"
-para comenzar con el armado de nuetro robot, lo armamos siguiendo la indicaciónes
-del manual para observar rl funcionamiento del mismo,
-luego hicimos un estudio para adaptar el robot a las 
-regla solicitadas como, por ejemplo:El robot deberia de tener 2 o 1 un motor, 
-en nuestro caso el robot original tenia 4 motores uno para cada llanta.
-Tomamos la decisión de utilizar un motor (DC) para controlar amabas llantas traseras.
-para conectarlo a cada llanta utilizamos un tubo de un bolígrafo y una vase de palitos de 
-madera para nivelar la llanta. para la parte de adelante utilizamos un servo motor 
-para gestionar la dirección de robot. creamos una nueva base para las 
-llantas delanteras ya que no podían estar en la posición inicial
-así que tomamos la decisión de incorpor las llantas de manera externa 
+Debemos incluir que nuestro robot es un
+"samrt robot car v4.0". para comenzar 
+con el armado de nuetro robot, lo armamos 
+siguiendo la indicaciónes del manual para
+observar el funcionamiento del mismo,
+luego hicimos un eqstudio para adaptar el
+robot a las regla solicitadas como, 
+por ejemplo:El robot deberia de tener 2 o 1 un motor, 
+en nuestro caso el robot original tenia
+cuatro motores uno para cada llanta.
+Tomamos la decisión de utilizar un motor
+(DC) para controlar amabas llantas traseras.
+para conectarlo a cada llanta utilizamos 
+un tubo de un bolígrafo y una vase de palitos de 
+madera para nivelar la llanta. para la parte de 
+adelante utilizamos un servo motor 
+para gestionar la dirección de robot. 
+creamos una nueva base para las 
+llantas delanteras ya que no podían 
+estar en la posición inicial
+así que tomamos la decisión de incorpor 
+las llantas de manera externa 
 en beneficio de la movilidad del robot. 
-En la parte superior lo que seria su batería, la placa Arduino Uno y su censor ultasónico
+En la parte superior lo que seria su batería, 
+la placa Arduino Uno y su censor ultasónico
 se metienen en la posición de fabrica.
 Esta seria una descripción del facto ingeniería.
