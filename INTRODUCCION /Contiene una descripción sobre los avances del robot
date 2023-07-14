@@ -1,1 +1,24 @@
+El robot ha sido una experiencia enriquesedora en cuanto a conocimiento.
+nos permitió conocer mas acerca de la ingenieria y la robótica.
 
+partimos con unas simples piezas,las cuales fuimos uniendo y modificando,
+de esta manera le dimos forma a nuestro robot 
+
+El robot está formado por diferentes componentes,tanto electrónicos como mecánicos
+lo controla una placa arduino uno,esto se complementa con diferentes sensores y actuadores
+como lo son:
+sensor ultrasonico,el cual mide la distancia mediante ondas de sonido
+en una frecuencia la cual al rebotar con algún objeto regresan al sensor e indican 
+la distancia del objeto.
+
+La cámara,esta nos permite ver los diferentes colores y asi poder diferentes funciones
+para realizar movimientos
+
+El robot utiliza dos servomotores.Uno encargado de la movilidad de la cámara
+otro encargado de la movilidad de las llantas delanteras.
+
+
+
+Como se mencionó antes,el estar involucrados en la construcción,programación y logistica de 
+nuestro robot,nos permitió acercarnos a la ingenieria y aprender a solucionar errores
+que ocurrian en el proceso.
